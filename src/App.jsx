@@ -1,8 +1,12 @@
+import { Routes } from "react-router-dom";
+
 function App() {
   return (
     <>
-      <h1 className="">lms</h1>
-      <h2 className="">lms</h2>
+      <Routes>
+        {/* <Route path="/" element={<Home/>} ></Route> */}
+      </Routes>
+      <h1>lms</h1>
     </>
   );
 }
