@@ -1,13 +1,5 @@
-
-
 function App() {
-
-  return (
-    <>
-    lms
-    </>
-  
-  )
+  return <>lms</>;
 }
 
-export default App
+export default App;
